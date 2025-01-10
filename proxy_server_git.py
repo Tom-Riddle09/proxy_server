@@ -4,9 +4,9 @@ from datetime import datetime
 API_TOKEN = os.getenv('API_KEY')
 CHAT_ID = os.getenv('CHAT_ID')
 pwd = os.path.dirname(__file__) #getting current directory
-log_file_path = pwd + '/log_file.txt' #log file 
-source_file = pwd + '/source.json' # source file
-prod_file = pwd + '/prod.json' # prod file
+log_file_path = 'log_file.txt' #log file 
+source_file = 'source.json' # source file
+prod_file = 'prod.json' # prod file
 debug = True
 
 def logger(msg,warn = False): #function to log the errors - this will be modified to send tg alerts
