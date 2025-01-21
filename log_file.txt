@@ -277,3 +277,6 @@
 2025-01-21 18:17:07 -> HTML content of current_nifty captured | length:566117
 2025-01-21 18:17:08 -> HTML content of current_pe captured | length:49213
 2025-01-21 18:17:08 -> Prod file updated.
+2025-01-21 21:11:35 -> HTML content of current_nifty captured | length:566077
+2025-01-21 21:11:36 -> HTML content of current_pe captured | length:49214
+2025-01-21 21:11:36 -> Prod file updated.
