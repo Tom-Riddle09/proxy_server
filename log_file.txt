@@ -1,6 +1,3 @@
-2025-03-29 12:23:09 -> HTML content of current_pe captured | length:49234
-2025-03-29 12:23:09 -> Prod file updated.
-2025-03-29 15:13:27 -> HTML content of current_nifty captured | length:564615
 2025-03-29 15:13:28 -> HTML content of current_pe captured | length:49234
 2025-03-29 15:13:28 -> Prod file updated.
 2025-03-29 18:16:28 -> HTML content of current_nifty captured | length:563312
@@ -998,3 +995,6 @@
 2025-05-09 12:27:19 -> HTML content of current_nifty captured | length:564311
 2025-05-09 12:27:20 -> HTML content of current_pe captured | length:49191
 2025-05-09 12:27:20 -> Prod file updated.
+2025-05-09 15:14:29 -> HTML content of current_nifty captured | length:563273
+2025-05-09 15:14:30 -> HTML content of current_pe captured | length:49192
+2025-05-09 15:14:30 -> Prod file updated.
