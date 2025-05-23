@@ -1,6 +1,3 @@
-2025-04-12 01:04:29 -> HTML content of current_nifty captured | length:564459
-2025-04-12 01:06:08 -> Error fetching https://www.screener.in/company/NIFTY/: 500 Server Error: Internal Server Error for url: https://www.screener.in/company/NIFTY/
-2025-04-12 01:06:08 -> Unable to capture HTML content of https://www.screener.in/company/NIFTY/
 2025-04-12 01:06:09 -> Warning send with response 200
 2025-04-12 01:06:09 -> Prod file updated.
 2025-04-12 03:27:03 -> HTML content of current_nifty captured | length:564510
@@ -998,3 +995,6 @@
 2025-05-23 03:38:48 -> HTML content of current_nifty captured | length:563065
 2025-05-23 03:38:48 -> HTML content of current_pe captured | length:49180
 2025-05-23 03:38:48 -> Prod file updated.
+2025-05-23 06:20:35 -> HTML content of current_nifty captured | length:563729
+2025-05-23 06:20:35 -> HTML content of current_pe captured | length:49172
+2025-05-23 06:20:35 -> Prod file updated.
