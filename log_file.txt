@@ -1,6 +1,3 @@
-2025-10-29 21:13:07 -> HTML content of current_nifty captured | length:559742
-2025-10-29 21:13:08 -> Error fetching https://www.screener.in/company/NIFTY/: 503 Server Error: Service Temporarily Unavailable for url: https://www.screener.in/company/NIFTY/
-2025-10-29 21:13:08 -> Unable to capture HTML content of https://www.screener.in/company/NIFTY/
 2025-10-29 21:13:09 -> Warning send with response 200
 2025-10-29 21:13:09 -> Prod file updated.
 2025-10-30 01:10:28 -> HTML content of current_nifty captured | length:558292
@@ -998,3 +995,6 @@
 2025-12-10 09:19:10 -> HTML content of current_nifty captured | length:565566
 2025-12-10 09:19:11 -> HTML content of current_pe captured | length:49767
 2025-12-10 09:19:11 -> Prod file updated.
+2025-12-10 12:32:19 -> HTML content of current_nifty captured | length:565244
+2025-12-10 12:32:19 -> HTML content of current_pe captured | length:49771
+2025-12-10 12:32:19 -> Prod file updated.
